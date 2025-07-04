@@ -30,17 +30,21 @@ Here are some projects I have worked on recently:
 - [**Minesweeper in Java**](https://github.com/JamesN883/java-minesweeper)
 
 ## 🛠️ Skills & Tools
-**Languages & Scripting**  
-- Python · SQL · R (basic) · Java (basic) · TypeScript (basic) · CSS (basic)
+**Languages**  
+- Python, SQL, R (basic), Java (basic), CSS (basic), TypeScript (basic)
 
-**Tools & Platforms**  
-- PostgreSQL (basic) · MS Excel · PySpark (basic)
+**Frameworks and Libraries**  
+- Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, PySpark (basic)
 
-**Data Science Skills**  
-- Data wrangling · Data visualization · Exploratory Data Analysis (EDA)  
-- Statistical analysis · Classification · Sentiment analysis  
-- Basic knowledge of machine learning · Big data concepts · Data mining  
-- NLP · Semantic search · Knowledge graph construction
+**Tools**  
+- MS Excel, Google Colab, Visual Studio Code, Git (basic), Docker (basic)
+
+**Databases**  
+- PostgreSQL (basic)
+
+**Techniques and Concepts**  
+- Data wrangling, data visualization, EDA, statistical analysis, regression, classification, sentiment analysis
+- Basic knowledge: Data mining, machine learning, big data concepts, NLP, semantic search, and knowledge graph construction
 
 ## ☕ Get in Touch:
 
